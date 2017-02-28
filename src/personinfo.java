@@ -4,19 +4,19 @@
 public class personinfo {
 
 
-    public personinfo(String name, double age) {
+    public personinfo(String name, String age) {
         this.name = name;
         this.age = age;
     }
 
     String name;
-        double age;
+        String age;
 
         public String getName() {
             return name;
         }
 
-        public int getAge() {
+        public String getAge() {
             return age;
         }
 
