@@ -9,7 +9,7 @@ public class personinfo {
         this.age = age;
     }
 
-    String name;
+    String name;     //this is a change from mee(ers) 
         String age;
 
         public String getName() {
