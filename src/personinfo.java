@@ -9,7 +9,7 @@ public class personinfo {
         this.age = age;
     }
 
-    String name;
+    String name;   //comment by me(ers), is this change visible
         double age;
 
         public String getName() {
